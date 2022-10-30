@@ -1,4 +1,4 @@
-# ASCE_Agri_IITH
+# ASCE_Agri_IITH_data
 The following repo contains excel simulator for my work 
 GITHUB LINK:    https://github.com/harshpallam/AgriIITH
     • EXCEL FILE: Fig 2 RN TS
